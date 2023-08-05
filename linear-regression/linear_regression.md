@@ -1,0 +1,3 @@
+## Linear Regression 
+
+Supervised machine learning algorithm used to predict the value of a variable based on the value of another variable. The variable we want to predict is called dependent variable and the variable we used to predict is called the independent variable.Linear regression fits a straight line that mininmizes the difference between actual value and predicted value. Regression uses Mean Square Error(MSE) method to find the best-fit line. 
