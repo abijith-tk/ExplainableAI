@@ -6,3 +6,4 @@ It is a set of processes and methods which helps human users to comprehend and t
 
 - [Linear Regression](https://github.com/abijith-tk/ExplainableAI/tree/master/linear-regression)
 - [Decision Tree](https://github.com/abijith-tk/ExplainableAI/tree/master/decision-tree)
+- [Random Forest Classifier](https://github.com/abijith-tk/ExplainableAI/tree/master/random-forest)
