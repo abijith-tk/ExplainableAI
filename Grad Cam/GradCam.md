@@ -1,0 +1,4 @@
+# Grad-CAM (Gradient-weighted Class Activation Mapping)
+
+**Overview:**
+Grad-CAM is a technique in computer vision that provides insights into the decision-making process of convolutional neural networks (CNNs). It stands for Gradient-weighted Class Activation Mapping and helps visualize the regions of an image that influence a model's prediction for a particular class. Unlike traditional methods that generate heatmaps to highlight important regions, Grad-CAM uses gradient information from the final convolutional layer to identify discriminative features. This makes Grad-CAM model-agnostic, allowing it to be applied to various CNN architectures. By visualizing the areas contributing to a specific classification, Grad-CAM enhances interpretability and transparency in deep learning models, aiding researchers and practitioners in understanding the visual cues utilized by the network.
