@@ -8,3 +8,4 @@ It is a set of processes and methods which helps human users to comprehend and t
 - [Decision Tree](https://github.com/abijith-tk/ExplainableAI/tree/master/decision-tree)
 - [Random Forest Classifier](https://github.com/abijith-tk/ExplainableAI/tree/master/random-forest)
 - [LIME](https://github.com/abijith-tk/ExplainableAI/tree/master/LIME)
+- [Grad Cam](https://github.com/abijith-tk/ExplainableAI/tree/master/Grad%20Cam)
